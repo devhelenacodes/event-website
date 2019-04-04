@@ -5,4 +5,5 @@ Website made with Django framework connected to a PostgreSQL database with custo
 Visit website at http://eventweb.herokuapp.com
 
 Username: guest
+
 Password: fromgithub
