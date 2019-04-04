@@ -106,4 +106,4 @@ venv.bak/
 *.pyc
 staticfiles
 db.sqlite3
-getting-started/*
+gettingstarted/*
